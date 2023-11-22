@@ -1,0 +1,15 @@
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\bin\Debug\net6.0\tarsasFeladat.exe
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\bin\Debug\net6.0\tarsasFeladat.deps.json
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\bin\Debug\net6.0\tarsasFeladat.runtimeconfig.json
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\bin\Debug\net6.0\tarsasFeladat.dll
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\bin\Debug\net6.0\tarsasFeladat.pdb
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.csproj.AssemblyReference.cache
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.AssemblyInfoInputs.cache
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.AssemblyInfo.cs
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.csproj.CoreCompileInputs.cache
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.dll
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\refint\tarsasFeladat.dll
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.pdb
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\tarsasFeladat.genruntimeconfig.cache
+C:\Users\bankuti.laszlo\source\repos\tarsasFeladat\tarsasFeladat\obj\Debug\net6.0\ref\tarsasFeladat.dll
